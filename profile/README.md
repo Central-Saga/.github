@@ -1,71 +1,53 @@
-# Central Saga
+<img src="https://id.pinterest.com/dewiathena/logo-perusahaan/" alt="Logo PT. Central Saga Mandala" width="170"/>
 
-Selamat datang di **Central Saga** – mitra terpercaya Anda dalam mewujudkan berbagai solusi digital dan akademik! Kami hadir dengan dua lini usaha unggulan:  
-- **Saga Code**: Layanan software house profesional untuk pengembangan website, aplikasi, dan sistem informasi.  
-- **Saga Task**: Jasa joki tugas yang mendukung kebutuhan akademik dan non-akademik Anda dengan pendekatan inovatif dan efisien.
+# PT. Central Saga Mandala 🇮🇩
 
----
-
-## 🎯 **Visi dan Misi**
-
-### **Visi**
-Menjadi pusat solusi digital dan akademik yang menginspirasi serta memberdayakan individu dan organisasi untuk mencapai potensi maksimal melalui layanan berkualitas dan inovatif.
-
-### **Misi**
-1. **Inovasi dan Profesionalisme:** Menyediakan solusi teknologi dan akademik dengan standar tertinggi melalui tim ahli yang berdedikasi.
-2. **Kualitas dan Efisiensi:** Menjamin hasil yang berkualitas dengan pengerjaan tepat waktu dan harga yang kompetitif.
-3. **Kepercayaan dan Privasi:** Menjaga kerahasiaan data serta privasi setiap klien sebagai prioritas utama.
-4. **Dukungan Pengembangan:** Memberikan layanan konsultasi dan dukungan penuh bagi mahasiswa, UMKM, dan perusahaan dalam mengembangkan potensi teknologi mereka.
+**Mewujudkan Visi Digital Anda dengan Kode dan Kreativitas.**
+Kami adalah mitra strategis Anda dalam menghadirkan solusi digital inovatif, menggabungkan keahlian teknis software house dengan strategi kreatif dari agency kami.
 
 ---
 
-## 💼 **Layanan Kami**
+### 🔹 **Saga Code – Software House Profesional**
+Pengembangan solusi perangkat lunak yang tangguh, skalabel, dan sesuai kebutuhan bisnis Anda.
+- **Pengembangan Web & Aplikasi:** Dari website korporat, aplikasi e-commerce, hingga Progressive Web Apps (PWA) dan aplikasi mobile.
+- **Sistem Informasi & Aplikasi Kustom:** Rancang bangun sistem untuk optimasi proses bisnis, manajemen data, dan integrasi.
+- **Konsultasi Teknologi:** Strategi digitalisasi, arsitektur sistem, dan pemilihan teknologi terbaik untuk proyek Anda.
 
-### **Saga Code – Software House**
-Kami mengkhususkan diri dalam:
-- **Pengembangan Website dan Aplikasi:** Solusi modern dan responsif untuk kebutuhan bisnis dan personal.
-- **Sistem Informasi dan Aplikasi Kustom:** Integrasi sistem yang tepat guna meningkatkan efisiensi operasional.
-- **Konsultasi Teknologi:** Pendampingan dan strategi digitalisasi untuk UMKM dan perusahaan.
-
-### **Saga Task – Joki Tugas**
-Layanan kami mencakup:
-- **Bantuan Tugas Akademik:** Mendukung penyusunan skripsi, tugas umum, laporan kerja praktek, dan berbagai tugas akademik lainnya dengan pendekatan terstruktur.
-- **Penyusunan Program dan Analisis Data:** Pengerjaan tugas teknis dan analisis dengan ketelitian tinggi.
-- **Pendampingan dan Konsultasi:** Solusi konsultasi untuk mendukung proses belajar dan penelitian Anda.
+### 🔹 **Saga Creative – Creative Agency & Digital Solutions**
+Membangun identitas brand yang kuat dan pengalaman pengguna yang memikat melalui layanan kreatif kami.
+- **UI/UX Design:** Desain antarmuka dan pengalaman pengguna yang intuitif, menarik, dan fungsional.
+- **Branding & Identitas Visual:** Pengembangan logo, panduan brand, dan materi pemasaran yang konsisten.
+- **Konten Digital & Strategi Pemasaran:** Perencanaan dan pembuatan konten digital yang relevan untuk meningkatkan *engagement* dan jangkauan.
 
 ---
 
-## 🌟 **Keunggulan Kami**
-
-- **Pengerjaan Cepat dan Tepat Waktu:** Kami memahami nilai waktu Anda dan selalu mengutamakan ketepatan dalam setiap pengerjaan.
-- **Harga Terjangkau:** Memberikan solusi berkualitas dengan biaya yang kompetitif.
-- **Revisi Tanpa Batas (Revisi Minor):** Komitmen kami untuk mencapai hasil yang sesuai dengan harapan Anda melalui revisi tanpa batasan.
-- **Privasi Terjamin:** Seluruh informasi klien diperlakukan dengan standar kerahasiaan tertinggi.
-
----
-
-## 👥 **Target Pelanggan**
-
-Kami melayani berbagai kalangan, termasuk:
-- **Mahasiswa:** Solusi tugas akademik seperti skripsi, tugas umum, dan laporan kerja praktek untuk mendukung pencapaian hasil optimal.
-- **UMKM:** Dukungan digitalisasi untuk meningkatkan efisiensi dan pertumbuhan bisnis.
-- **Perusahaan:** Pengembangan website dan sistem informasi yang menunjang kemajuan bisnis.
+🚀 **Teknologi Unggulan Kami:**
+Kami menguasai berbagai teknologi modern untuk memberikan hasil terbaik:
+- **Backend:** PHP (Laravel, CodeIgniter), Node.js (Express.js), Python (Django, Flask)
+- **Frontend:** React, Next.js, Vue.js, Nuxt.js, JavaScript, TypeScript, HTML5, CSS3
+- **Mobile:** React Native, Flutter (atau sebutkan jika ada spesialisasi lain)
+- **Database:** MySQL, PostgreSQL, MongoDB, SQL Server
+- **Lainnya:** API Development, Cloud Services (AWS, GCP, Azure - sebutkan jika relevan), DevOps.
 
 ---
 
-## 📞 **Hubungi Kami**
+🌟 **Mengapa Memilih Kami?**
+- **Solusi Komprehensif:** Integrasi layanan pengembangan software dan strategi kreatif dalam satu atap.
+- **Kualitas & Inovasi:** Komitmen pada standar kualitas tertinggi dan solusi yang inovatif.
+- **Pengiriman Tepat Waktu:** Kami menghargai waktu Anda dengan manajemen proyek yang efisien.
+- **Harga Kompetitif:** Solusi berkualitas tinggi dengan investasi yang sepadan.
+- **Kolaborasi Transparan:** Komunikasi terbuka dan pelaporan progres reguler.
+- **Kerahasiaan Data Terjamin:** Prioritas utama kami adalah keamanan dan privasi data klien.
 
-Untuk informasi lebih lanjut atau pemesanan layanan, silakan hubungi kami melalui:
-  
-📱 **WhatsApp:** [081337547273](https://wa.me/6281337547273)
+🎯 **Target Klien Kami:**
+- **UMKM & Startup:** Akselerasi pertumbuhan bisnis melalui digitalisasi, branding yang kuat, dan sistem yang efisien.
+- **Perusahaan (Enterprise):** Pengembangan solusi kustom, modernisasi sistem, dan peningkatan *user experience* untuk skala besar.
 
 ---
 
-> **Disclaimer:**  
-> Semua hasil pekerjaan bersifat rahasia dan hanya untuk penggunaan pribadi klien. Kami tidak bertanggung jawab atas penyalahgunaan hasil pekerjaan.
+Mari diskusikan bagaimana kami dapat membantu mewujudkan proyek digital Anda!
 
----
+📱 **WhatsApp:** [085117327700](https://wa.me/6285117327700)
+📧 **Email:** ptcentralsagamandala@gmail.com
 
-**Kesimpulan:**  
-Central Saga hadir sebagai pusat solusi digital dan akademik yang mengintegrasikan dua lini usaha unggulan, yaitu Saga Code dan Saga Task. Dengan komitmen terhadap kualitas, efisiensi, dan privasi, kami siap menjadi mitra andalan dalam mengembangkan ide, proyek, maupun penelitian Anda. Kami percaya bahwa inovasi dan dukungan yang kami tawarkan akan menginspirasi kemajuan di setiap lini kehidupan – baik di ranah pendidikan maupun dunia digital.
-
+> *Kami berkomitmen untuk kerahasiaan dan kesuksesan proyek Anda.*
